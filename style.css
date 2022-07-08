@@ -17,36 +17,45 @@ h1 {
 }
 .section {
     background-color: white;
-    opacity: .8;
+    opacity: .85;
     padding: 20px;
 }
 .North {
     border: 1px solid black;
     margin-left: 10px;
     text-align: center;
+    color: darkgreen;
 }
 .South {
     border: 1px dotted black;
     margin-left: 10px;
     text-align: center;
+    color: orangered;
 }
 .Europe {
     border: 1px dotted black;
     margin-left: 10px;
     text-align: center;
+    color: darkmagenta;
 }
 .Asia {
     border: 1px dotted black;
     margin-left: 10px;
     text-align: center;
+    color: darkred;
 }
 .Africa {
     border: 1px dotted black;
     margin-left: 10px;
     text-align: center;
+    color: blue;
 }
 .Australia {
     border: 1px dotted black;
     margin-left: 10px;
     text-align: center;
+    color:deeppink;
+}
+#north {
+    justify-content: space-around;
 }
