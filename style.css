@@ -1,0 +1,52 @@
+body {
+    background: url(https://geology.com/world/world-map.gif);
+    background-position: center;
+    position: relative;
+}
+h1 {
+    background: lightgreen;
+    text-align: center;
+    padding: 20px;
+    font-size: 50px;
+    border-radius: 46%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.Intro {
+    text-align: center;
+}
+.section {
+    background-color: white;
+    opacity: .8;
+    padding: 20px;
+}
+.North {
+    border: 1px solid black;
+    margin-left: 10px;
+    text-align: center;
+}
+.South {
+    border: 1px dotted black;
+    margin-left: 10px;
+    text-align: center;
+}
+.Europe {
+    border: 1px dotted black;
+    margin-left: 10px;
+    text-align: center;
+}
+.Asia {
+    border: 1px dotted black;
+    margin-left: 10px;
+    text-align: center;
+}
+.Africa {
+    border: 1px dotted black;
+    margin-left: 10px;
+    text-align: center;
+}
+.Australia {
+    border: 1px dotted black;
+    margin-left: 10px;
+    text-align: center;
+}
