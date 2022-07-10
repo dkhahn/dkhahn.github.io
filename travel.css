@@ -4,6 +4,9 @@ header {
     background-color: lightgreen;
     border-radius: 40%;
 }
+.html {
+    background-color: black;
+}
 .body {
     background: url(https://www.nationsonline.org/maps/Political-World-Map-3360.jpg);
     background-position: center;
@@ -12,6 +15,7 @@ header {
 .places {
     text-align: center;
     text-decoration: overline underline;
+    color: white;
 }
 .continents {
     display: grid;
@@ -67,11 +71,12 @@ header {
     display: grid;
     grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: darkorange;
+    background-color: lightgreen;
     padding: 20px; 
 }
 .cities {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
     text-decoration: overline underline;
+    color: white;
 }
