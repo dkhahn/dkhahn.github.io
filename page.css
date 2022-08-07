@@ -1,0 +1,34 @@
+.header {
+     font-size: 40px;
+     font-family: Great Vibes;
+     background-color: beige;
+     text-align: center;
+}
+.intro {
+    text-align: center;
+}
+.unitedstates {
+    border: 1px solid black;
+    padding: 30px;
+    margin-bottom: 10px;
+    text-align: center;
+    background-color: white;
+    opacity: .85;
+    background-color: cornflowerblue;
+}
+.canada {
+    border: 1px solid black;
+    padding: 30px;
+    text-align: center;
+    background-color: white;
+    opacity: .85;
+    background-color: lightcoral;
+}
+.mexico {
+    border: 1px solid black;
+    padding: 30px;
+    text-align: center;
+    background-color: white;
+    opacity: .85;
+    background-color: lightseagreen;
+}

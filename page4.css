@@ -1,0 +1,36 @@
+.header {
+    font-size: 40px;
+    font-family: Great Vibes;
+    background-color: beige;
+    text-align: center;
+}
+.intro {
+    text-align: center;
+}
+.japan {
+        border: 1px solid black;
+        padding: 30px;
+        margin-bottom: 10px;
+        text-align: center;
+        background-color: white;
+        opacity: .85;
+        background-color: rgb(181, 42, 42);
+}
+.russia {
+    border: 1px solid black;
+    padding: 30px;
+    margin-bottom: 10px;
+    text-align: center;
+    background-color: white;
+    opacity: .85;
+    background-color: lightseagreen;
+}
+.china {
+    border: 1px solid black;
+    padding: 30px;
+    margin-bottom: 10px;
+    text-align: center;
+    background-color: white;
+    opacity: .85;
+    background-color: rgb(226, 35, 35)
+}

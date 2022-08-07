@@ -1,0 +1,121 @@
+.header {
+    font-size: 40px;
+    font-family: Great Vibes;
+    background-color: beige;
+    text-align: center;
+}
+.button {
+    text-align: center;
+
+}
+.intro {
+    text-align: center;
+}
+.uk {
+    border: 1px solid black;
+    padding: 30px;
+    margin-bottom: 10px;
+    text-align: center;
+    background-color: white;
+    opacity: .85;
+    background-color: lightslategray;
+}
+.ireland {
+    border: 1px solid black;
+    padding: 30px;
+    margin-bottom: 10px;
+    text-align: center;
+    background-color: white;
+    opacity: .85;
+    background-color: rgb(36, 147, 36);
+}
+.spain {
+    border: 1px solid black;
+    padding: 30px;
+    margin-bottom: 10px;
+    text-align: center;
+    background-color: white;
+    opacity: .85;
+    background-color: rgb(218, 161, 54);
+}
+.france {
+    border: 1px solid black;
+    padding: 30px;
+    margin-bottom: 10px;
+    text-align: center;
+    background-color: white;
+    opacity: .85;
+    background-color: rgb(210, 56, 56);
+}
+.germany {
+    border: 1px solid black;
+    padding: 30px;
+    margin-bottom: 10px;
+    text-align: center;
+    background-color: white;
+    opacity: .85;
+    background-color: rgb(112, 24, 112);
+}
+.italy {
+    border: 1px solid black;
+    padding: 30px;
+    margin-bottom: 10px;
+    text-align: center;
+    background-color: white;
+    opacity: .85;
+    background-color: rgb(255, 229, 80);
+}
+.denmark {
+    border: 1px solid black;
+    padding: 30px;
+    margin-bottom: 10px;
+    text-align: center;
+    background-color: white;
+    opacity: .85;
+    background-color: pink;
+}
+.hungary {
+    border: 1px solid black;
+    padding: 30px;
+    margin-bottom: 10px;
+    text-align: center;
+    background-color: white;
+    opacity: .85;
+    background-color: orange;
+}
+.greece {
+    border: 1px solid black;
+    padding: 30px;
+    margin-bottom: 10px;
+    text-align: center;
+    background-color: white;
+    opacity: .85;
+    background-color: lightskyblue;
+}
+.austria {
+    border: 1px solid black;
+    padding: 30px;
+    margin-bottom: 10px;
+    text-align: center;
+    background-color: white;
+    opacity: .85;
+    background-color: lavenderblush;
+}
+.czech {
+    border: 1px solid black;
+    padding: 30px;
+    margin-bottom: 10px;
+    text-align: center;
+    background-color: white;
+    opacity: .85;
+    background-color: darkseagreen;
+}
+.netherlands {
+    border: 1px solid black;
+    padding: 30px;
+    margin-bottom: 10px;
+    text-align: center;
+    background-color: white;
+    opacity: .85;
+    background-color: rgb(175, 29, 29);
+}

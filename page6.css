@@ -1,0 +1,27 @@
+.header {
+    font-size: 40px;
+    font-family: Great Vibes;
+    background-color: beige;
+    text-align: center;
+}
+.intro {
+    text-align: center;
+}
+.melbourne {
+    border: 1px solid black;
+    padding: 30px;
+    margin-bottom: 10px;
+    text-align: center;
+    background-color: white;
+    opacity: .85;
+    background-color: rgb(162, 162, 224);
+}
+.sydney {
+    border: 1px solid black;
+    padding: 30px;
+    margin-bottom: 10px;
+    text-align: center;
+    background-color: white;
+    opacity: .85;
+    background-color: powderblue;
+}
