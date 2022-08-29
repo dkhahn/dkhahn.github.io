@@ -1,123 +1,62 @@
-html {
+body {
     background-color: black;
-    color: seashell;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 22px;
-    opacity: .9;
+    background-position: center;
+    position: relative;
 }
-.header {
-    border-bottom: 1px solid seashell;
-    padding: 35px;
-    display: flex;
-    position: fixed;
-    background-color: black;
-    width: 1000px;
-}
-.logo {
-    text-align: left;
-    height: 50px;
-}
-.first {
-    text-decoration: underline;
-    text-align: right;
-    padding: 15px;
-    display: inline-flex;
-    justify-content: flex-end;
-}
-.second {
-    text-decoration: underline;
-    text-align: right;
-    padding: 15px;
-    display: inline-flex;
-    justify-content: flex-end;
-}
-.third {
-    text-decoration: underline;
-    text-align: right;
-    padding: 15px;
-}
-.mission {
-    background-image: url(https://content.codecademy.com/courses/freelance-1/unit-4/img-mission-background.jpg?_gl=1*qev4g6*_ga*MTg4NzAzMzUzMy4xNjU0Mzc0NDcz*_ga_3LRZM6TM9L*MTY1NzI5MjQ5OC40MC4xLjE2NTcyOTI4NzYuNTc.);
-    height: 700px;
-    width: 1000px;
+h1 {
     text-align: center;
-    display: flex;
-    flex-direction: column;
+    padding: 20px;
+    font-size: 50px;
+    border-radius: 46%;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
-.wordingone {
-    background-color: black;
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    margin-top: 350px;
-}
-.containers {
-    background-image: url(https://content.codecademy.com/courses/freelance-1/unit-4/img-locations-background.jpg?_gl=1*qev4g6*_ga*MTg4NzAzMzUzMy4xNjU0Mzc0NDcz*_ga_3LRZM6TM9L*MTY1NzI5MjQ5OC40MC4xLjE2NTcyOTI4NzYuNTc.);
-    height: 500px;
-    width: 1500px;
-    display: flex;
-    flex-flow: row wrap;
-    align-items: center;
-    padding: 40px;
-    justify-content: space-between;
-}
-.location {
-    display: inline-flex;
-    margin-right: 1500px;
-    text-align: center;
-    align-items: center;
-    color: black;
-}
-.downtown {
-    background-color: black;
-    text-align: center;
-    display: inline-flex;
-    flex-direction: column;
-    width: 300px;
-    height: 300px;
-    padding: 10px;
-    align-content: center;
-}
-.eastbayside {
-    background-color: black;
-    text-align: center;
-    display: inline-flex;
-    height: 300px;
-    width: 300px;
-    flex-direction: column;
-    padding: 10px;
-}
-.oakdale {
-    background-color: black;
-    text-align: center;
-    display: inline-flex;
-    height: 300px;
-    width: 300px;
-    flex-direction: column;
-    padding: 10px;
-}
-.container {
-    display: flex;
-    flex-direction: row wrap;
-    justify-content: space-between;
-    padding: 10px;
+.Intro {
     text-align: center;
 }
-.berry {
-    display: inline-flex;
-    justify-content: space-between;
-    flex-direction: column;
-    width: 500px;
+.section {
+    color: white;
     padding: 20px;
 }
-.tea {
+.North {
+    border: 1px solid white;
+    margin-left: 10px;
     text-align: center;
+    color: white;
 }
-.contact {
+.South {
+    border: 1px solid white;
+    margin-left: 10px;
     text-align: center;
-    height: 200px;
+    color: white;
 }
-.footer {
-    font-size: 17px;
-    text-align: left;
+.Europe {
+    border: 1px solid white;
+    margin-left: 10px;
+    text-align: center;
+    color: white;
+}
+.Asia {
+    border: 1px solid white;
+    margin-left: 10px;
+    text-align: center;
+    color: white;
+}
+.Africa {
+    border: 1px solid white;
+    margin-left: 10px;
+    text-align: center;
+    color: white;
+}
+.Australia {
+    margin-left: 10px;
+    text-align: center;
+    color:white;
+}
+#north {
+    justify-content: space-around;
+}
+.form {
+    text-align: center;
+    margin-top: 10px;
 }
